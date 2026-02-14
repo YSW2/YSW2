@@ -7,7 +7,8 @@
 
 ## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YSW2&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YSW2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Baekjoon
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jrgyber)](https://solved.ac/jrgyber)
