@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YSW2&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YSW2&layout=compact&theme=dark)
 
 ## Baekjoon
 
