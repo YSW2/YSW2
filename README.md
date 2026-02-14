@@ -17,4 +17,4 @@
 ## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:jrgyber@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=tistory&logoColor=white)]((https://kimmimo.tistory.com))
+[![Blog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=tistory&logoColor=white)](https://kimmimo.tistory.com)
