@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats
 
-![YSW's GitHub stats](https://github-readme-stats.vercel.app/api?username=YSW2&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YSW2&theme=dark)](https://git.io/streak-stats)
 
 ## Baekjoon
 
@@ -15,5 +15,5 @@
 
 ## 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:이메일)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:jrgyber@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white)](블로그주소)
